@@ -96,7 +96,7 @@ static void Traffic_SetState(uint16_t pins_on)
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/Traffic-Light-STM32.git
+   git clone https://github.com/saif-amara/Traffic-Light-STM32.git
    ```
 2. Open STM32CubeIDE → `File > Open Projects from File System` → select the folder
 3. Build: `Project > Build All`
